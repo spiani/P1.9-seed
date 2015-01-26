@@ -32,6 +32,9 @@ The contract
   with -lquadrature.debug or -lquadrature.release (after specifying
   correctly -L and -I options)
 
+- The library should strictly follow this coding conventions: 
+  https://www.dealii.org/developer/doxygen/deal.II/CodingConventions.html
+
 - The debug version should perform extensive checking in input, 
   output, and internal conditions, while the release version should 
   not perform any checking (used only for production runs)
