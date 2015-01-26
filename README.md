@@ -66,3 +66,6 @@ The contract
 
 - Design decisions are taken together, at the early stage of the 
   project, when only documentation and test unit is available
+
+- Documentation should be *extracted* automatically from code using
+  Doxygen (or equivalent tool)
